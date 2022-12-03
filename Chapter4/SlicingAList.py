@@ -1,2 +1,2 @@
-players = ['charles', 'martina', 'michael', 'florence', 'eli']
+players = ['V', 'KOKII', 'Wolf001', 'DoomSlayer', 'BookOfEli']
 print(players[0:3])
