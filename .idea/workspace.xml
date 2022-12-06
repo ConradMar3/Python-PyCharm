@@ -5,24 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30446b44-7011-4c81-ba5d-093f60b61cb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python-PyCharm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/toolchains.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/Calculating_data ( Automatically ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/Defining_colors.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/Defining_colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/Random_walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/mpl_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/rw_visual(1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/rw_visual.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/rw_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/scatter_squares(Series_of_points).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/scatter_squares(Single point).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_Visualization_(Project02)/squares_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyTime.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Laser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/LazenbyCompSmooth.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor_Dodger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/spaceship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/spaceship_charged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Cloud1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Cloud2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Land_BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Shooting_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Water_BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Wood_BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/crosshair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/duck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +46,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Python/pythonThisISPy/Python-PyCharm/Data_Visualization_(Project02)"
+    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Python/pythonThisISPy/Python-PyCharm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ConradMaré\Desktop\Python\pythonThisISPy\Python-PyCharm" />
       <recent name="C:\Users\ConradMaré\Desktop\Python\pythonThisISPy\Python-PyCharm\Data_Visualization_(Project02)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ConradMaré\Desktop\Python\pythonThisISPy\Python-PyCharm\Project01_Pygame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Calculating_data ( Automatically )">
+  <component name="RunManager" selected="Python.Shooting_range">
     <configuration name="Calculating_data ( Automatically )" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +72,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Visualization_(Project02)/Calculating_data ( Automatically ).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Meteor_Dodger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor_Dodger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Shooting_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Shooting_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,6 +166,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Shooting_range" />
+        <item itemvalue="Python.Meteor_Dodger" />
         <item itemvalue="Python.Calculating_data ( Automatically )" />
         <item itemvalue="Python.alien_invasion (1)" />
         <item itemvalue="Python.alien_invasion" />
