@@ -5,23 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30446b44-7011-4c81-ba5d-093f60b61cb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Laser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/LazenbyCompSmooth.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor_Dodger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/shield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/spaceship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/spaceship_charged.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Cloud1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Cloud2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Land_BG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Shooting_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Water_BG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Wood_BG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/crosshair.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/duck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/3dplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/3dplot2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/fill2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/legend-example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/lineplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/loadFromExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/loadFromFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/multilineplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/pie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/plot2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/scatterplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/style2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/subplots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/3D_plot (Multiple_values).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/3D_plot(Multiple_values.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/3D_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Scatterplot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Scatterplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Subplot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Subplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Themes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Themes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Fill_line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Fill_line_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Line_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Load_data_from_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Multi_Line_Plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Multi_line_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/line_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Bar_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Bar_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Legend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Legend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Pie_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Data_types_quiz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Functions_quiz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Misc_quiz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Operators_quiz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Output_types_quiz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/d6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/d6_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/d6_d10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/dice_visual(2_dice).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/dice_visual(different_size_dice).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/die.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/die_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rolling_Dice/making_a_histogram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +96,8 @@
       <recent name="C:\Users\ConradMaré\Desktop\Python\pythonThisISPy\Python-PyCharm\Project01_Pygame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Shooting_range">
-    <configuration name="Calculating_data ( Automatically )" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dice_visual(2_dice)">
+    <configuration name="Scatterplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Visualization_(Project02)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matplotlib_Advanced_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Visualization_(Project02)/Calculating_data ( Automatically ).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib_Advanced_Python/Scatterplot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Meteor_Dodger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dice_visual(2_dice)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rolling_Dice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Meteor_Dodger/Meteor_Dodger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rolling_Dice/dice_visual(2_dice).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shooting_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loadFromExcel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matplotlib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction_to_game_development_in_Python/Shooting_range_game/Shooting_range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib/loadFromExcel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alien_invasion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loadFromFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alien_Invasion_(Project01)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matplotlib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alien_Invasion_(Project01)/alien_invasion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib/loadFromFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="style" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-PyCharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project01_Pygame/Alien_Invasion_(Project01)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matplotlib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project01_Pygame/Alien_Invasion_(Project01)/alien_invasion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplotlib/style.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Shooting_range" />
-        <item itemvalue="Python.Meteor_Dodger" />
-        <item itemvalue="Python.Calculating_data ( Automatically )" />
-        <item itemvalue="Python.alien_invasion (1)" />
-        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.dice_visual(2_dice)" />
+        <item itemvalue="Python.style" />
+        <item itemvalue="Python.loadFromExcel" />
+        <item itemvalue="Python.Scatterplot" />
+        <item itemvalue="Python.loadFromFile" />
       </list>
     </recent_temporary>
   </component>
