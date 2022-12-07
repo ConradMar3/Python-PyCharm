@@ -5,61 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30446b44-7011-4c81-ba5d-093f60b61cb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Matplotlib/3dplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/3dplot2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/fill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/fill2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/legend-example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/lineplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/loadFromExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/loadFromFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/multilineplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/pie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/plot2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/scatterplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/style.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/style2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib/subplots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/3D_plot (Multiple_values).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/3D_plot(Multiple_values.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/3D_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Scatterplot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Scatterplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Subplot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Subplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Themes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Advanced_Python/Themes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Fill_line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Fill_line_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Line_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Load_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Load_data_from_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Multi_Line_Plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/Multi_line_plot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_Introduction_Python/line_plot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Bar_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Bar_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Legend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Legend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Pie_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib_more_plots_Python/Pie_chart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Data_types_quiz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Functions_quiz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Misc_quiz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Operators_quiz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Quiz_Screenshots(Geeks_for_geeks)/Output_types_quiz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/d6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/d6_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/d6_d10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/dice_visual(2_dice).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/dice_visual(different_size_dice).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/die.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/die_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rolling_Dice/making_a_histogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-PyCharm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Python/pythonThisISPy/Python-PyCharm"
+    "last_opened_file_path": "C:/Users/ConradMaré/Desktop/Python/pythonThisISPy"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,7 +45,7 @@
   </component>
   <component name="RunManager" selected="Python.dice_visual(2_dice)">
     <configuration name="Scatterplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-PyCharm" />
+      <module name="Python-PyCharm/Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -119,7 +66,7 @@
       <method v="2" />
     </configuration>
     <configuration name="dice_visual(2_dice)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-PyCharm" />
+      <module name="Python-PyCharm/Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -140,7 +87,7 @@
       <method v="2" />
     </configuration>
     <configuration name="loadFromExcel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-PyCharm" />
+      <module name="Python-PyCharm/Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -161,7 +108,7 @@
       <method v="2" />
     </configuration>
     <configuration name="loadFromFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-PyCharm" />
+      <module name="Python-PyCharm/Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -182,7 +129,7 @@
       <method v="2" />
     </configuration>
     <configuration name="style" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-PyCharm" />
+      <module name="Python-PyCharm/Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>

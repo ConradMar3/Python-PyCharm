@@ -1,7 +1,9 @@
-from plotly.graph_objs import Scattergeo, Layout
-from plotly import offline
 
-for eq_dict in all_eq_dicts:
+from plotly.graph_objs import Scattergeo, Layout
+from plotly import offline, plotly
+
+eq_dict: object
+for eq_dict in plotly:
 
 # Map the earthquakes.
 data = [Scattergeo(lon=eq_dict, lat=eq_dict)]
